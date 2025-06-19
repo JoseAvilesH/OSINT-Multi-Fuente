@@ -1,0 +1,4 @@
+shodan
+python-whois
+googlesearch-python
+beautifulsoup4
